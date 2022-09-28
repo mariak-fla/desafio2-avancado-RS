@@ -1,5 +1,7 @@
 # Desafio avançado: Aula 02 | Rocketseat Explorer 🚀
 
+![preview](./.github/preview.png)
+
 Desafio avançado da Aula 2 do curso [Explorer](https://app.rocketseat.com.br/explorer) da Rocketseat.
 O explorer é um curso full-stack que ensina a programar desde o nível mais básico.
 Neste desafio, a proposta era recriar, do zero, um layout em HTML e CSS.
